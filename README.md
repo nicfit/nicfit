@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+✨ Check out [My GitHub Stars](starred.md) for a lot of good stuff and inspiration.
+
+
 <!--
 **nicfit/nicfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
