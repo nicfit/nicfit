@@ -33,6 +33,7 @@
 
 ## HTML 
 
+- [copier-poetry](https://github.com/pawamoy/copier-poetry) - A copier template for a Python package managed by Poetry.
 - [ffdgc](https://github.com/SKR-Design-LLC/ffdgc) - Foothill Flyers Website
 
 ## Java 
@@ -51,7 +52,8 @@
 
 ## Others 
 
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [awesome-streaming](https://github.com/manuzhang/awesome-streaming) - a curated list of awesome streaming frameworks, applications, etc
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [documentation](https://github.com/plugcommunity/documentation) - Unofficial Community Documentation
@@ -73,6 +75,16 @@
 
 ## Python 
 
+- [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+- [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
+- [faust](https://github.com/robinhood/faust) - Python Stream Processing
+- [marshmallow_dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
+- [Clique](https://github.com/nicfit/Clique) - Python API for Clique block chains; ID chains and auth chains included.
+- [nicfit.py](https://github.com/nicfit/nicfit.py) - Common Python and CookieCutter
+- [TopFM](https://github.com/nicfit/TopFM) - Make last.fm lists and collages
+- [MishMash](https://github.com/nicfit/MishMash) - Music database, etc.
+- [Mop](https://github.com/nicfit/Mop) - GTK+ ID3 tag editor
+- [eyeD3](https://github.com/nicfit/eyeD3) - eyeD3 is a Python module and command line program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3v1 (1.0/1.1) and ID3v2 (2.3/2.4).
 - [certvalidator](https://github.com/wbond/certvalidator) - Python library for validating X.509 certificates and paths
 - [poetry-publish](https://github.com/jedie/poetry-publish) - Helper to build and upload a project that used poetry to PyPi, with prechecks
 - [alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
@@ -113,7 +125,7 @@
 - [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 - [colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
-- [setupmeta](https://github.com/zsimic/setupmeta) - Simplify your setup.py
+- [setupmeta](https://github.com/codrsquad/setupmeta) - Simplify your setup.py
 - [environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
