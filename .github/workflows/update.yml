@@ -27,4 +27,6 @@ jobs:
       - name: Build
         run: |
           make
-          git diff starred.md
+          git add starred.md
+          git commit -m "Updated starred"
+          git push
