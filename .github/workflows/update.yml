@@ -17,13 +17,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
+
       - name: Setup Python
         uses: actions/setup-python@v2.2.1
 
       - name: Install
-        run: pip install -r requirements
-      
+        run: pip install -r requirements.txt
+
       - name: Build
         run: |
           make
+          git status
