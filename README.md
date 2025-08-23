@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h5 align="center">
+    <img align="center" src="https://raw.githubusercontent.com/nicfit/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    <img align="center" src="https://raw.githubusercontent.com/nicfit/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <br>
+    <img align="center" src="https://raw.githubusercontent.com/nicfit/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+    <img align="center" src="https://raw.githubusercontent.com/nicfit/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</h5>
+
 <!--
 **nicfit/nicfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
