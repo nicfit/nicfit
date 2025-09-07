@@ -2,9 +2,9 @@
 
 [![nicfit GitHub stats](https://github-readme-stats.vercel.app/api?username=nicfit)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicfit&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 <h5 align="center">
     <img align="center" src="https://raw.githubusercontent.com/nicfit/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
     <img align="center" src="https://raw.githubusercontent.com/nicfit/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
